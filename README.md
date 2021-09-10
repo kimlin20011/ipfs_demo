@@ -1,4 +1,4 @@
-# IPFS筆記
+# IPFS教學筆記
 
 > https://codertw.com/%E4%BC%BA%E6%9C%8D%E5%99%A8/142959/
 > [基于js-ipfs-api实现ipfs的文件上传与下载](https://blog.csdn.net/koastal/article/details/78771932)
