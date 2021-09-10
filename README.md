@@ -26,4 +26,7 @@
         * `ipfs pin add -r /ipfs/<CID>`
     * 執行ipfs背景
         * `ipfs daemon`
+
+# License
+The source code is licensed MIT. 
     
